@@ -1,11 +1,9 @@
 ### Hi there, I'm Sebastian Kiefer - aka [sebcodes] 👋
 
-## I'm a Developer!
+## I'm a german PHP Developer!
 - 🔭 I’m currently working on some PHP Projects!
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to fix bugs 😂
+- 🥅 2021 Goals: Working on  PHP projects
 
 ### Connect with me:
 
