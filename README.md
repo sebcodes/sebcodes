@@ -1,13 +1,13 @@
 ### Hi there, I'm Sebastian Kiefer - aka [sebcodes] 👋
 
 ## I'm a german PHP Developer!
-- 🔭 I’m currently working on some PHP Projects and on my CMS!
-- 🥅 2021 Goals: Working on  PHP projects
+- 🔭 I’m currently working on my CMS
+- 🥅 2022 Goals: Getting my CMS release ready
 
 ### Connect with me:
 
 [My website](https://www.sebcodes.de) 
-[CMS](https://www.sebcodes-cms.de)
+[CMS (not ready at the moment)](https://www.sebcodes-cms.de)
 ---
 
 <img align="left" alt="sebcodes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sebcodes&show_icons=true&hide_border=true&theme=dark" />
