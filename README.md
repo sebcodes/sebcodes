@@ -2,7 +2,7 @@
 
 ## I'm a german PHP Developer!
 - 🔭 I’m currently working on my CMS
-- 🥅 2022 Goals: Getting my CMS release ready
+- 🥅 2023 Goals: Getting my CMS release ready
 
 ### Connect with me:
 
