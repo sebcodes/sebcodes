@@ -7,7 +7,7 @@
 ### Connect with me:
 
 [My website](https://www.sebcodes.de) 
-[CMS (not ready at the moment)](https://www.sebcodes-cms.de)
+[CMS](https://www.sebcodes-cms.de)
 ---
 
 <img align="left" alt="sebcodes's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sebcodes&show_icons=true&hide_border=true&theme=dark" />
